@@ -85,3 +85,6 @@ Jika Anda melihat log sinkronisasi atau koneksi ke bootstrap node, maka node And
 
 Dibuat oleh: **Moaru**  
 🔗 Script ini bebas digunakan untuk komunitas BeanChain dan pembelajaran pribadi.
+
+📖 [Official Node Setup Guide](https://github.com/BeanChain-Core/docs/blob/main/EARLY-NODE-GUIDE.md)
+
