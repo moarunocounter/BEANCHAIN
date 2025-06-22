@@ -1,3 +1,5 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+
 # 🫘 BeanChain One-Click Node Setup by MOARU
 
 Skrip ini akan membantu Anda menginstal dan menjalankan node **BeanChain** secara interaktif dan otomatis.  
