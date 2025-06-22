@@ -8,7 +8,7 @@ Pastikan Anda sudah memiliki:
 
 ---
 
-## 🚀 Langkah Cepat Instalasi
+## 🚀 Langkah Cepat Instalasi 
 
 ### 1. Unduh Skrip Setup
 
