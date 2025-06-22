@@ -19,12 +19,8 @@ Semua langkah dilakukan satu per satu dengan konfirmasi langsung, cocok untuk pe
 ### 1. Unduh dan Jalankan
 
 ```bash
-wget https://example.com/beanchain-setup-moaru.sh
-chmod +x beanchain-setup-moaru.sh
-./beanchain-setup-moaru.sh
+wget https://raw.githubusercontent.com/moarunocounter/BEANCHAIN/main/bean.sh -O bean.sh && chmod +x bean.sh && ./bean.sh
 ```
-
-> 💡 Ganti `example.com` dengan URL tempat kamu hosting file `.sh` ini.
 
 ---
 
