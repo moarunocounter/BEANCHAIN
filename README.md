@@ -7,12 +7,18 @@ Semua langkah dilakukan satu per satu dengan konfirmasi langsung, cocok untuk pe
 
 ---
 
-## 📦 Persyaratan
+## 🚀 Spesifikasi Ideal (untuk full sync & node publik)
 
-- ✅ Server Linux (direkomendasikan Ubuntu 22.04+)
-- ✅ Akses `root` atau `sudo`
-- ✅ Koneksi internet stabil
-- ❌ Tidak perlu install Java/Maven/Git secara manual — akan dipasang otomatis
+| Komponen   | Rekomendasi                                   |
+|------------|-----------------------------------------------|
+| **CPU**    | 4 vCPU atau lebih                              |
+| **RAM**    | 8 GB atau lebih                                |
+| **Storage**| 100 GB SSD atau NVMe                           |
+| **Bandwidth** | 1 TB+/bulan (tergantung traffic sync)      |
+| **OS**     | Ubuntu 22.04 LTS atau sejenis                 |
+| **IP Publik** | Direkomendasikan untuk node publik (biar bisa connect ke peer lain) |
+
+> ✅ Dengan spek ini, node bisa sinkron lebih cepat, melayani peer, dan lebih stabil 24/7.
 
 ---
 
